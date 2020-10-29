@@ -7,6 +7,7 @@ host = grpc-puzzle-pvufxpciqa-lz.a.run.app
 port = 443
 
 To get started faster, seek inspiration in these example gRPC projects:
+
 Java: https://github.com/Preyfix/grpc-lab
 
 Go/Ruby/Python: https://github.com/jayway/sthlm-kday-gRPC
