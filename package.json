@@ -1,0 +1,23 @@
+{
+  "name": "grpc-puzzle",
+  "version": "1.0.0",
+  "description": "A gRPC server has been deployed to GCP on below host address and port. Given the address and proto file in this repo, figure out the FinalSecret!",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Preyfix/grpc-puzzle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Preyfix/grpc-puzzle/issues"
+  },
+  "homepage": "https://github.com/Preyfix/grpc-puzzle#readme",
+  "dependencies": {
+    "google-protobuf": "^3.13.0",
+    "grpc": "^1.24.3"
+  }
+}
